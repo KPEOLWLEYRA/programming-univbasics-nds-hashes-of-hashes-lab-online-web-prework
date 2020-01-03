@@ -51,9 +51,9 @@ def naming_system
             }
           }
         }
-  :label => "Order",
+  :label => "Order"
   :label => "Family", 
-    :sub_category => {
+  :sub_category => {
       :label => "Genus"
     }
   :label => "Species"
