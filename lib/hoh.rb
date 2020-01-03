@@ -60,9 +60,9 @@ def naming_system
         :label => "Genus"
       }
     }
-  species = {
-    :label => "Species",
-    :sub_category => nil 
+    species = {
+      :label => "Species",
+      :sub_category => nil 
   }
 }
 naming_system
