@@ -60,8 +60,6 @@ def naming_system
             }
           }
         }
-        }
-      }
       }
     }
   }
