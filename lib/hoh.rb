@@ -52,7 +52,7 @@ def naming_system
           }
         }
     order = {
-      :label => "Order",
+      :label => "Order"
     }
     family = {
       :label => "Family", 
@@ -62,7 +62,7 @@ def naming_system
     }
     species = {
       :label => "Species",
-      :sub_category => nil 
+      :sub_category => {} 
   }
 }
 naming_system
